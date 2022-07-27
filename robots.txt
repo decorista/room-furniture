@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://decorista.github.io/room-furniture/sitemapx.xml
